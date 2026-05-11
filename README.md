@@ -1,5 +1,9 @@
 # 💫 About Me:
-I’m a Machine Learning Engineer focused on building end-to-end ML systems. I work across the full pipeline — from data preprocessing and feature engineering to model training, evaluation, and deployment.<br><br>My primary focus has been on NLP and LLM-based systems, including RAG architectures and deep learning models using TensorFlow and PyTorch. I care about building reproducible, scalable solutions rather than just experimental notebooks.<br><br>Currently, I’m focused on strengthening production-grade ML systems and improving model performance through systematic experimentation.
+Machine Learning Engineer specializing in deep learning, graph ML, and applied NLP systems. Experienced in
+building end-to-end machine learning pipelines from data preprocessing to optimized inference, with hands-on
+work in neural networks, malware detection, and production-oriented experimentation. Solo author of a
+research-driven hybrid malware detection framework submitted to IEEE TIFS, focused on robust detection
+under real-world distribution shift.
 
 
 ## 🌐 Socials:
