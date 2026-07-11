@@ -1,9 +1,8 @@
 # 💫 About Me:
-Machine Learning Engineer specializing in deep learning, graph ML, and applied NLP systems. Experienced in
-building end-to-end machine learning pipelines from data preprocessing to optimized inference, with hands-on
-work in neural networks, malware detection, and production-oriented experimentation. Solo author of a
-research-driven hybrid malware detection framework submitted to IEEE TIFS, focused on robust detection
-under real-world distribution shift.
+AI/ML and Agentic AI Engineer with experience building machine learning systems and autonomous AI agents. I have hands-on
+experience in this area. I am skilled in using LangGraph and LangChain for LLM orchestration, RAG and multi-agent design. My
+work is backed by research that has been published on ResearchGate. I also have experience from two internships, in the US and
+India.
 
 
 ## 🌐 Socials:
