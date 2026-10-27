@@ -1,8 +1,26 @@
-# 💫 About Me:
-AI/ML and Agentic AI Engineer with experience building machine learning systems and autonomous AI agents. I have hands-on
-experience in this area. I am skilled in using LangGraph and LangChain for LLM orchestration, RAG and multi-agent design. My
-work is backed by research that has been published on ResearchGate. I also have experience from two internships, in the US and
-India.
+I'm an AI Engineer  specialize in designing production-grade Agentic AI architectures that transform complex business workflows into reliable, autonomous AI systems.
+ 
+My expertise lies in architecting autonomous AI systems from planning and multi-agent orchestration to tool calling, memory management, Retrieval-Augmented Generation (RAG), evaluation frameworks, and production deployment. I enjoy solving complex engineering problems by designing AI systems that are modular, maintainable, and built for real-world business use rather than prototypes.
+ 
+I've built AI products including autonomous sales agents, document intelligence platforms, AI-powered knowledge assistants, and personalized recommendation systems using LangGraph, LangChain, Python, FastAPI, Docker, PostgreSQL, Redis, ChromaDB, and modern LLM APIs.
+ 
+I also have experience delivering production AI solutions for clients, contributing to open-source projects, and publishing machine learning research. I enjoy translating business requirements into robust AI architectures that balance reliability, scalability, performance, and cost.
+ 
+Core Expertise
+ 
+• Production AI Agent Architecture
+ • Agentic AI & Multi-Agent Systems
+ • Large Language Models (LLMs)
+ • Retrieval-Augmented Generation (RAG)
+ • AI Workflow Automation
+ • LangGraph & LangChain
+ • FastAPI & Python Backend Development
+ • MCP & Tool Calling
+ • Evaluation Frameworks & Guardrails
+ • Docker • PostgreSQL • Redis • ChromaDB
+ 
+I'm always interested in collaborating with startups and engineering teams building the next generation of AI products.
+ 
 
 
 ## 🌐 Socials:
